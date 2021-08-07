@@ -22,3 +22,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### References
+```
+https://docs.amplify.aws/start/getting-started/installation/q/integration/vue
+
+```
